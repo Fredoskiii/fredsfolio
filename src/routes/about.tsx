@@ -1,6 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { ArrowRight, Lightbulb, Compass, Award, TrendingUp } from "lucide-react";
-import portraitAsset from "@/assets/fred-portrait.png.asset.json";
+import portraitAsset from "@/assets/fred-portrait.png";
 import workspace from "@/assets/workspace.jpg";
 import { Reveal } from "@/components/Reveal";
 
