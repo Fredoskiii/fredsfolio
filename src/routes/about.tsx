@@ -4,7 +4,7 @@ import portraitAsset from "@/assets/fred-portrait.png";
 import workspace from "@/assets/workspace.jpg";
 import { Reveal } from "@/components/Reveal";
 
-const portrait = portraitAsset.url;
+const portrait = portraitAsset;
 
 export const Route = createFileRoute("/about")({
   head: () => ({
