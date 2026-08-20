@@ -16,12 +16,6 @@ import { Reveal } from "@/components/Reveal";
 
 export const Route = createFileRoute("/")({
   head: () => ({
-  links: [
-    {
-      rel: "icon",
-      href: "/favicon.ico",
-    },
-  ],
   meta: [
       { title: "Fred Akpaka — Digital Marketing, Design & Strategy" },
       {
